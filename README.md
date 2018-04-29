@@ -1,11 +1,12 @@
 # Slot-Filling
-**Slot Filling Using RNN with ATIS data**
+**Slot Filling Using RNN with ATIS data.**
 ## Requirement
-Python3.6
-PyTorch
+Python3.6  
+PyTorch  
 progressbar
 ## Dataset
-Airline Travel Information System(ATIS) dataset.
+Airline Travel Information System(ATIS) dataset.  
+
 Here is an example sentence and its labels from the dataset:
 
   Show | flights | from |   Boston | to |  New | York|today
