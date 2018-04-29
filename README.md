@@ -7,11 +7,13 @@ progressbar
 ## Dataset
 Airline Travel Information System(ATIS) dataset.
 Here is an example sentence and its labels from the dataset:
-  Show   | flights | from |   Boston | to |  New | York|    today
+
+  Show | flights | from |   Boston | to |  New | York|today
   ---   | --- | --- |   --- | --- |  --- | ---|    ---
  O | O | O |B-dept | O|B-arr|I-arr|B-date
 ## Result
 **Bi-GRU**
+
 ---   | Precision | Recall | F1 |
 ---   | -- | --- |-- |
 train-set|99.77|99.83|99.8|
