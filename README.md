@@ -14,7 +14,7 @@ Here is an example sentence and its labels from the dataset:
 ## Result
 **Bi-GRU**
 
----   | Precision | Recall | F1 |
+      | Precision | Recall | F1 |
 ---   | -- | --- |-- |
 train-set|99.77|99.83|99.8|
 test-set|94.78|94.75|94.76|
