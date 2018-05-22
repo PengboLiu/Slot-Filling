@@ -2,7 +2,6 @@
 **Slot Filling Using RNN with ATIS data.**
 ## Requirement
 Python3.6 
-
 PyTorch0.3  
 progressbar  
 ## Dataset
